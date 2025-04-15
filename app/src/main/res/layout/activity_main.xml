@@ -64,7 +64,8 @@
                     android:id="@+id/btnLeft"
                     android:layout_width="66dp"
                     android:layout_height="match_parent"
-                    android:text="↺"/>
+                    android:text="↺"
+                    app:icon="@drawable/mirrored_image" />
 
                 <Space
                     android:layout_width="53dp"
@@ -74,7 +75,8 @@
                     android:id="@+id/btnRight"
                     android:layout_width="65dp"
                     android:layout_height="58dp"
-                    android:text="↻"/>
+                    android:text="↻"
+                    app:icon="@drawable/_ceff62b8a2aa86342062ae04c4be6b4" />
 
             </LinearLayout>
 
